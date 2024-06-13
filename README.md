@@ -116,4 +116,4 @@ Contributions are welcome! Please follow these steps:
 5. Create a new Pull Request.
 
 ### License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the (LICENSE)[https://github.com/MaharshPatelX/InsightScraper/blob/main/LICENSE] file for details.
