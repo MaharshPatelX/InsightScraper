@@ -1,0 +1,6 @@
+selenium
+html2text
+langchain_groq
+langchain_core
+pyyaml
+unittest
